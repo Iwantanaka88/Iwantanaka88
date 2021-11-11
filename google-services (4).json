@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230958315590",
+    "project_id": "blogger-adsense",
+    "storage_bucket": "blogger-adsense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230958315590:android:eb8c31d7e1ac3b2996f247",
+        "android_client_info": {
+          "package_name": "com.blogger.adsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230958315590-674ukgki2m2to5ssau32enms7tdi64gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsB3cbQ6ZDdUChZso_qqjeEYETTPX6raE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230958315590-674ukgki2m2to5ssau32enms7tdi64gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4093042052912826~1272038934"
+    }
+  ],
+  "configuration_version": "1"
+}
